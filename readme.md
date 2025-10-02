@@ -1,4 +1,4 @@
 #This is sample readme
 
--This is feature b branch
+-This is feature a branch
 -the newly added file
